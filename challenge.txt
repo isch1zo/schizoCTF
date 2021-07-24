@@ -7,4 +7,4 @@ Now you need to do two things to find 2nd & 3rd parts of the flag:
 - Develop an exploit to the binary. 
 
 Once you finished developing the exploit try it with these ip & port:
-nc 104.248.228.227 1997
+nc 159.89.85.162 1997
